@@ -36,6 +36,10 @@
     background-color: #d4a509;
 }
 
+.video.play{
+    background-color: greenyellow;
+}
+
 .footer{
     background-color: #202020;
     height: 1200px;
