@@ -33,14 +33,27 @@
 .video{
     width: 640px;
     height: 390px;
+    margin: auto;
     background-color: #d4a509;
+    align-content: center;
+    text-align: center;
 }
 
 .video.play{
     background-color: greenyellow;
 }
 
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    background-color: #d4a509;
+
+}
+
 .footer{
     background-color: #202020;
     height: 1200px;
+    display: flex;
+    justify-content: space-around;
 }
